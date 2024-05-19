@@ -24,7 +24,7 @@ By default the application launches in "sandbox mode" with a basic repository al
 
 Sandbox mode can be great for demonstrating something to a friend, but the real learning is with levels...
 
-## Levels
+## Levels-
 
 Type `levels` to see the available lessons / challenges (and which ones you have solved so far). Each level series aims to teach some high-level git concept, and each tab of levels separates major worlds of info (like remote repositories versus local).
 
